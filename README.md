@@ -1,4 +1,4 @@
-# Subalakshmi K — Portfolio
+# Subalakshmi K — portfolio
 
 Personal portfolio site for **Subalakshmi K**, a Cloud & DevOps enthusiast, Web Developer, and Python Developer currently pursuing a B.E. in Computer Science Engineering at Anna University (CGPA: 9.3).
 
